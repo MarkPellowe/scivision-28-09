@@ -1,29 +1,27 @@
 {
   "catalog_type": "scivision datasource catalog",
-  "name": "default",
+  "name": "catdog_classification_dataset",
   "entries": [
     {
       "name": "data-000",
       "tasks": [
-        "object-detection",
-        "segmentation"
+        "classification"
       ],
       "domains": [
-        "optical-microscopy"
+        "animal-taxonomy"
       ],
-      "url": "https://github.com/stardist/stardist/releases/download/0.3.0/demo3D.zip",
+      "url": "https://github.com/MarkPellowe/DOGCATFORSCIVIS",
       "format": "image",
-      "labels_provided": true,
+      "labels_provided": "yes",
       "institution": [
-        "epfl"
+        "alan-turing-institute"
       ],
       "tags": [
-        "help-needed",
-        "3D",
-        "cell",
-        "cell-counting",
-        "biology",
-        "biomedical-science"
+        "classification",
+        "animal",
+        "dog",
+        "cat",
+        "taxonomy"
       ]
     },
     {
