@@ -165,6 +165,30 @@
         "ecology",
         "environmental-science"
       ]
+    },
+    {
+      "name": "data-007",
+      "description": "Uhmmm cats and dogs? I guess",
+      "tasks": [
+        "classification"
+      ],
+      "domains": [
+        "computer-vision",
+        "animals"
+      ],
+      "url": "https://github.com/MarkPellowe/DOGCATFORSCIVIS",
+      "format": "image",
+      "labels_provided": true,
+      "institution": [
+        "Alan Turing Institute's best group"
+      ],
+      "tags": [
+        "2D",
+        "cats",
+        "dogs",
+        "cute",
+        "animals"
+      ]
     }
   ]
 }
