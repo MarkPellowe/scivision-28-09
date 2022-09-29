@@ -268,6 +268,23 @@
         "ecology",
         "environmental-science"
       ]
+    },
+    {
+      "name": "catdogclassifier",
+      "description": "Cat/Dog classifier (workshop 28/09)",
+      "tasks": [
+        "classification"
+      ],
+      "url": "https://github.com/st-vincent1/catdog_classification_model",
+      "pkg_url": "git+https://github.com/st-vincent1/catdog_classification_model@master",
+      "format": "image",
+      "pretrained": true,
+      "labels_required": true,
+      "institution": "alan-turing-institute",
+      "tags": [
+        "cat",
+        "dog"
+      ]
     }
   ]
 }
