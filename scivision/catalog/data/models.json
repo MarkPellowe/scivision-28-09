@@ -276,7 +276,7 @@
         "classification"
       ],
       "url": "https://github.com/st-vincent1/catdog_classification_model",
-      "pkg_url": "git+https://github.com/st-vincent1/catdog_classification_model@main",
+      "pkg_url": "git+https://github.com/st-vincent1/catdog_classification_model@master",
       "format": "image",
       "pretrained": true,
       "labels_required": true,
