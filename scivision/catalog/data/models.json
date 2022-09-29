@@ -280,7 +280,9 @@
       "format": "image",
       "pretrained": true,
       "labels_required": true,
-      "institution": "alan-turing-institute",
+      "institution": [
+        "alan-turing-institute"
+      ],
       "tags": [
         "cat",
         "dog"
