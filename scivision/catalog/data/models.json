@@ -270,7 +270,7 @@
       ]
     },
     {
-      "name": "catdogclassifier",
+      "name": "catdog_classification_model",
       "description": "Cat/Dog classifier (workshop 28/09)",
       "tasks": [
         "classification"
